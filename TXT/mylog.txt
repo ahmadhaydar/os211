@@ -13,3 +13,4 @@ ZCZC W01 5 L03 GitHub related
 ZCZC W01 100 L02 ZOOM related
 ZCZC W01 50 L03 Discord: Discussing previous popquiz
 ZCZC W01 180 L11 Assignment #1
+ZCZC w01 120 L21 Remaking w01.md
