@@ -30,3 +30,5 @@ ZCZC W01 90 L99 Valorant+Apex Legends
 ZCZC W02 50 L10 doing w02's Assignment
 ZCZC W02 10 L03 Github Related
 ZCZC W02 5 L08 Vim
+ZCZC W02 120 L22 watching ILOVEYOU
+ZCZC W02 100 L02 Zoom related
