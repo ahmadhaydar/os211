@@ -1,7 +1,5 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-
-#W00 Activities
 ZCZC W00 10 L03 Github Related
 ZCZC W00 20 L04 GitHub Pages: setting, etc.
 ZCZC W00 75 L02 ZOOM related
@@ -9,8 +7,6 @@ ZCZC W00 17 L22 YouTube: study, etc.
 ZCZC W00 100 L02 ZOOM related
 ZCZC W00 1 L01 SCELE related
 ZCZC W00 100 L02 ZOOM related
-
-# W01 Activities
 ZCZC W01 100 L21 VirtualBox: Install Debian
 ZCZC W01 120 L05 GSGS Vi, Awk, etc
 ZCZC W01 5 L03 GitHub related
@@ -25,10 +21,11 @@ ZCZC W01 30 L16 Assignment #6
 ZCZC W01 100 L17 Assignment #7
 ZCZC W01 40 L18 Assignment #8
 ZCZC W01 90 L99 Valorant+Apex Legends
-
-# W02 Activities
 ZCZC W02 50 L10 doing w02's Assignment
 ZCZC W02 10 L03 Github Related
 ZCZC W02 5 L08 Vim
 ZCZC W02 120 L22 watching ILOVEYOU
 ZCZC W02 100 L02 Zoom related
+ZCZC W02 100 L02 ZOOM Related
+ZCZC W02 100 L08 Vim
+ZCZC W02 10 L99 Fixing mylog.txt
