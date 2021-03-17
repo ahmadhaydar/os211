@@ -1,6 +1,7 @@
 # Top 10 Rank
-# Week 01
 ZCZC W01 alfina-megasiwi
 ZCZC W01 amzufar
 ZCZC W01 alifsaddid
-# Week 02 (In Progress)
+ZCZC W02 amzufar
+ZCZC W02 alifsaddid
+ZCZC W02 alfina-megasiwi

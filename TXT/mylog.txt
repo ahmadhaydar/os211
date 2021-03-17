@@ -30,3 +30,11 @@ ZCZC W02 100 L02 ZOOM Related
 ZCZC W02 100 L08 Vim
 ZCZC W02 10 L99 Fixing mylog.txt
 ZCZC W02 1 L99 Fixing myrank.txt
+ZCZC W03 30 L08 Vim
+ZCZC W03 100 L11 Assignment #1
+ZCZC W03 30 L12 Assignment #2
+ZCZC W03 10 L13 Assignment #3
+ZCZC W03 10 L14 Assignment #4
+ZCZC W03 20 L16 Assignment #6
+ZCZC W03 5 L17 Assignment #7
+ZCZC W03 10 L18 Assignment #8
