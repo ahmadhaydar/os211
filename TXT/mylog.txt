@@ -38,3 +38,8 @@ ZCZC W03 10 L14 Assignment #4
 ZCZC W03 20 L16 Assignment #6
 ZCZC W03 5 L17 Assignment #7
 ZCZC W03 10 L18 Assignment #8
+ZCZC W03 150 L15 Assignment #5
+ZCZC W03 150 L08 Vim
+ZCZC W03 10 L99 mylog.txt
+ZCZC W03 100 L02 ZOOM Related
+ZCZC W03 100 L99 Youtube
