@@ -5,3 +5,6 @@ ZCZC W01 alifsaddid
 ZCZC W02 amzufar
 ZCZC W02 alifsaddid
 ZCZC W02 alfina-megasiwi
+ZCZC W03 amzufar
+ZCZC W03 alifsaddid
+ZCZC W03 alfina-megasiwi
