@@ -61,3 +61,10 @@ ZCZC W05 50 L11 Assignment
 ZCZC W05 20 L12 Assignment
 ZCZC W05 20 L13 Assignment
 ZCZC W05 120 L14 Assignment
+ZCZC W06 100 L02 ZOOM Related
+ZCZC W06 200 L99 Youtube
+ZCZC W06 100 L08 Vim
+ZCZC W06 50 L11 Assignment
+ZCZC W06 20 L12 Assignment
+ZCZC W06 20 L13 Assignment
+ZCZC W06 120 L14 Assignment
